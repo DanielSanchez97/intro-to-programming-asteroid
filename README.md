@@ -1,5 +1,7 @@
 # Sections 2-6: Personal Portfolio
 
+This is my change
+
 ## Overview
 
 This ten-week project will teach you how to build your own personal portfolio website step-by-step. Be encouraged to really personalize this project using your own creativity and interests.
