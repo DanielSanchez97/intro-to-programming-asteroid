@@ -1,8 +1,5 @@
 # Sections 2-6: Personal Portfolio
 
-Add more contents
-
-This is my change. Another Change here. 
 
 # This is Daniels work
 
